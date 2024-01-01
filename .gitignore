@@ -1,3 +1,6 @@
 mylogs.log
 #ignoring all html files
 about.html
+
+#ignoring a foleder
+toBeIgnored/
